@@ -72,8 +72,8 @@ For detailed API documentation, please refer to [APIDoc.md](/docs/APIDoc.md)
 
 ### 2025-05-02
 
-- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/LEI-MOTO/sublink-worker/pull/175))
-- Fixed DNS configuration for Singbox ([#174](https://github.com/LEI-MOTO/sublink-worker/pull/174))
+- Automatic renaming is now applied when proxies with the same name exist ([#175](https://github.com/7Sageer/sublink-worker/pull/175))
+- Fixed DNS configuration for Singbox ([#174](https://github.com/7Sageer/sublink-worker/pull/174))
 
 ## 🔧 Project Structure
 
@@ -126,7 +126,7 @@ This project is for learning and exchange purposes only. Please do not use it fo
   </tr>
 </table>
   <p><b>NodeSupport has sponsored this project, thank you for your support!</b></p>
-  <p>If you would like to sponsor this project, please contact the developer <a href="https://github.com/LEI-MOTO" style="text-decoration: none;">@LEI-MOTO</a></p>
+  <p>If you would like to sponsor this project, please contact the developer <a href="https://github.com/7Sageer" style="text-decoration: none;">@7Sageer</a></p>
 </div>
 
 ## ⭐ Star History
